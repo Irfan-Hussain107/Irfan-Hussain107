@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="left" src="https://holopin.io/api/user/board?user=Irfan-Hussain107" alt="Holopin badges" width="200"/>
+<img align="left" src="https://holopin.me/irfanhussain107" alt="Holopin badges" width="200"/>
 
 <!--
 **Irfan-Hussain107/Irfan-Hussain107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
