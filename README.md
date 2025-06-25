@@ -39,9 +39,4 @@
 </p>
 
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IrfanHussain-dev&style=for-the-badge&color=blue" alt="profile-views" />
-</p>
 
