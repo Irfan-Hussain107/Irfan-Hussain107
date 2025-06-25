@@ -21,7 +21,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Irfan-Hussain107&show_icons=true&theme=radical&hide=prs&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=IrfanHussain-dev&theme=radical" />
 </p>
 
 <p align="center">
