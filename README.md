@@ -20,12 +20,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IrfanHussain-dev&show_icons=true&theme=radical&hide=prs&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Irfan-Hussain107&show_icons=true&theme=radical&hide=prs&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IrfanHussain-dev&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfanHussain-dev&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-Hussain107&theme=react-dark&hide_border=true" />
 </p>
 
 ---
