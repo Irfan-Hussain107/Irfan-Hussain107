@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Irfan Hussain
 
-### 🚀 Full-Stack Developer | MERN Stack Specialist | Cloud Enthusiast
+### 🚀 Full-Stack Developer | MERN Stack Specialist 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+Applications;Mastering+Data+Structures+%26+Algorithms;Exploring+Cloud+Technologies;Creating+Innovative+Solutions" alt="Typing SVG" />
 
